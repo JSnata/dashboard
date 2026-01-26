@@ -4,9 +4,8 @@ This **Dashboard** project provides an interactive interface that allows users t
 
 ## ⚠️ Note
 
-Firebase Cloud Storage now requires a paid plan, so the live demo is currently disabled.  
+Live demo is currently unavailable due to changes in Firebase Cloud Storage policy. 
 The code is still available for review.
-
 
 ## Deploy
 
