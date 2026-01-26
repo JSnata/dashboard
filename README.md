@@ -2,9 +2,10 @@
 
 This **Dashboard** project provides an interactive interface that allows users to visualize and manage data through various widgets and interactive charts.
 
-## ⚠️ Project Status
+## ⚠️ Note
 
-This project is currently not fully functional due to changes in Firebase Cloud Storage pricing policy.
+Firebase Cloud Storage now requires a paid plan, so the live demo is currently disabled.  
+The code is still available for review.
 
 
 ## Deploy
