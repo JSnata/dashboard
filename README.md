@@ -7,7 +7,7 @@ This **Dashboard** project provides an interactive interface that allows users t
 This project is currently not fully functional due to changes in Firebase Cloud Storage pricing policy.
 
 
-### Deploy
+## Deploy
 
 You can access the live version of the project [here](https://jsnata.github.io/dashboard).
 
